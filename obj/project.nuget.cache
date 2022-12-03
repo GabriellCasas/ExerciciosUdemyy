@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KzTDmuLPiTzM1hCVVr5Mt0wX6aejeqClJUONIyrYNgHH6RD2wkhc9C961YYK2FexEWAiDLz9aqj6yJc6pMXVZQ==",
+  "dgSpecHash": "Ko/p/uHE0/dsl2PXF2xmIS0pJLk5W7+1lOfDGd0A7Lu03GghZP5sAtq1H2wehVaZR5M2YKB17gG8XLIh53pF/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\Exercicios Udemyy\\Exercicios Udemyy.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ExerciciosUdemyy\\Exercicios Udemyy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

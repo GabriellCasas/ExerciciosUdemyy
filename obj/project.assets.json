@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\Exercicios Udemyy\\Exercicios Udemyy.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\ExerciciosUdemyy\\Exercicios Udemyy.csproj",
       "projectName": "Exercicios Udemyy",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\Exercicios Udemyy\\Exercicios Udemyy.csproj",
+      "projectPath": "C:\\Users\\gabri\\source\\repos\\ExerciciosUdemyy\\Exercicios Udemyy.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\Exercicios Udemyy\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\source\\repos\\ExerciciosUdemyy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
