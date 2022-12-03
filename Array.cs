@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicios_Udemy
+namespace Exercicios
 {
     class Array
     {
@@ -16,6 +16,12 @@ namespace Exercicios_Udemy
             alunos[3] = "Marica";
             alunos[4] = "Nego do Borel";
 
+
+            foreach (var aluno in alunos)
+            {
+                Console.WriteLine($" {aluno}");
+            }
         }
+
     }
 }
