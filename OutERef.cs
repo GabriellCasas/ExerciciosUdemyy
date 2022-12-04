@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicios_Udemy
+namespace Exercicios_Udemyy
 {
     class OutERef
     {

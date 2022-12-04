@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicios
+namespace Exercicios_Udemyy
 {
     class List
     {
@@ -33,18 +33,5 @@ namespace Exercicios
             }
 
         }
-    }
-
-    class Produto
-    {
-        public Produto (string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco;
-        }
-
-        public string Nome;
-        public double Preco;
-
     }
 }

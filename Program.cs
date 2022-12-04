@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicios_Udemy
+namespace Exercicios_Udemyy
 {
     class Program
     {
@@ -14,7 +14,9 @@ namespace Exercicios_Udemy
             //ColecoesSet.Executar();
             //ColecaoQueue.Executar();
             //Igualdade.Executar();
-            ColecaoStack.Executar();
+            //ColecaoStack.Executar();
+            ColecoesDictionary.Executar();
+
         }
 
     }

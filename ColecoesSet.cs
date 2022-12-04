@@ -2,35 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicios_Udemy
+namespace Exercicios_Udemyy
 {
-
-    public class Produto
-    {
-        public string Nome;
-        public double Preco;
-
-        public Produto(string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco;
-        }
-
-        public override bool Equals(object obj)
-        {
-            // para comparar o valor dos objetos e não o espaço de memoria
-            Produto outroProduto = (Produto)obj;
-            bool mesmoNome = Nome == outroProduto.Nome;
-            bool mesmoPreco = Preco == outroProduto.Preco;
-            return mesmoNome && mesmoPreco;
-        }
-
-        public override int GetHashCode()
-        {
-            return Nome.Length;
-        }
-    }
-
     class ColecoesSet
     {
         public static void Executar()

@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.exe
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.deps.json
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.runtimeconfig.json
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.dll
+C:\Users\gabri\source\repos\ExerciciosUdemyy\bin\Debug\netcoreapp3.1\Exercicios Udemyy.pdb
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.dll
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.pdb
+C:\Users\gabri\source\repos\ExerciciosUdemyy\obj\Debug\netcoreapp3.1\Exercicios Udemyy.genruntimeconfig.cache

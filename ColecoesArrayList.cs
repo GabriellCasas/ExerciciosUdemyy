@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Text;
 
-namespace Exercicios_Udemy
+namespace Exercicios_Udemyy
 {
     class ColecoesArrayList
     {
